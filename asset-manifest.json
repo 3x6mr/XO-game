@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/XO-game/static/css/main.3df08fd5.css",
+    "main.js": "/XO-game/static/js/main.76cbc258.js",
+    "index.html": "/XO-game/index.html",
+    "main.3df08fd5.css.map": "/XO-game/static/css/main.3df08fd5.css.map",
+    "main.76cbc258.js.map": "/XO-game/static/js/main.76cbc258.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3df08fd5.css",
+    "static/js/main.76cbc258.js"
+  ]
+}
